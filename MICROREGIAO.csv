@@ -1,13 +1,13 @@
-﻿Nome da Microrregião;Município;Total
-Unaí;Arinos;1.53
-Unaí;Bonfinópolis de Minas;1.53
-Unaí;Buritis;1.53
-Unaí;Cabeceira Grande;1.53
-Unaí;Dom Bosco;1.53
-Unaí;Formoso;1.53
-Unaí;Natalândia;1.53
-Unaí;Unaí;1.53
-Unaí;Uruana de Minas;1.53
+﻿Nome da Microrregião;Município;
+Unaí;Arinos;13.32
+Unaí;Bonfinópolis de Minas;13.32
+Unaí;Buritis;13.32
+Unaí;Cabeceira Grande;13.32
+Unaí;Dom Bosco;13.32
+Unaí;Formoso;13.32
+Unaí;Natalândia;13.32
+Unaí;Unaí;13.32
+Unaí;Uruana de Minas;13.32
 Paracatu;Brasilândia de Minas;1.7
 Paracatu;Guarda-Mor;1.7
 Paracatu;João Pinheiro;1.7
@@ -47,23 +47,23 @@ Janaúba;Pai Pedro;16.06
 Janaúba;Porteirinha;16.06
 Janaúba;Riacho dos Machados;16.06
 Janaúba;Serranópolis de Minas;16.06
-Salinas;Águas Vermelhas;5.44
-Salinas;Berizal;5.44
-Salinas;Curral de Dentro;5.44
-Salinas;Divisa Alegre;5.44
-Salinas;Fruta de Leite;5.44
-Salinas;Indaiabira;5.44
-Salinas;Montezuma;5.44
-Salinas;Ninheira;5.44
-Salinas;Novorizonte;5.44
-Salinas;Rio Pardo de Minas;5.44
-Salinas;Rubelita;5.44
-Salinas;Salinas;5.44
-Salinas;Santa Cruz de Salinas;5.44
-Salinas;Santo Antônio do Retiro;5.44
-Salinas;São João do Paraíso;5.44
-Salinas;Taiobeiras;5.44
-Salinas;Vargem Grande do Rio Pardo;5.44
+Salinas;Águas Vermelhas;15.12
+Salinas;Berizal;15.12
+Salinas;Curral de Dentro;15.12
+Salinas;Divisa Alegre;15.12
+Salinas;Fruta de Leite;15.12
+Salinas;Indaiabira;15.12
+Salinas;Montezuma;15.12
+Salinas;Ninheira;15.12
+Salinas;Novorizonte;15.12
+Salinas;Rio Pardo de Minas;15.12
+Salinas;Rubelita;15.12
+Salinas;Salinas;15.12
+Salinas;Santa Cruz de Salinas;15.12
+Salinas;Santo Antônio do Retiro;15.12
+Salinas;São João do Paraíso;15.12
+Salinas;Taiobeiras;15.12
+Salinas;Vargem Grande do Rio Pardo;15.12
 Pirapora;Buritizeiro;4.3
 Pirapora;Ibiaí;4.3
 Pirapora;Jequitaí;4.3
@@ -107,28 +107,28 @@ Bocaiúva;Engenheiro Navarro;0
 Bocaiúva;Francisco Dumont;0
 Bocaiúva;Guaraciama;0
 Bocaiúva;Olhos-d'Água;0
-Diamantina;Couto de Magalhães de Minas;0.08
-Diamantina;Datas;0.08
-Diamantina;Diamantina;0.08
-Diamantina;Felício dos Santos;0.08
-Diamantina;Gouveia;0.08
-Diamantina;Presidente Kubitschek;0.08
-Diamantina;São Gonçalo do Rio Preto;0.08
-Diamantina;Senador Modestino Gonçalves;0.08
-Capelinha;Angelândia;8.06
-Capelinha;Aricanduva;8.06
-Capelinha;Berilo;8.06
-Capelinha;Capelinha;8.06
-Capelinha;Carbonita;8.06
-Capelinha;Chapada do Norte;8.06
-Capelinha;Francisco Badaró;8.06
-Capelinha;Itamarandiba;8.06
-Capelinha;Jenipapo de Minas;8.06
-Capelinha;José Gonçalves de Minas;8.06
-Capelinha;Leme do Prado;8.06
-Capelinha;Minas Novas;8.06
-Capelinha;Turmalina;8.06
-Capelinha;Veredinha;8.06
+Diamantina;Couto de Magalhães de Minas;1.12
+Diamantina;Datas;1.12
+Diamantina;Diamantina;1.12
+Diamantina;Felício dos Santos;1.12
+Diamantina;Gouveia;1.12
+Diamantina;Presidente Kubitschek;1.12
+Diamantina;São Gonçalo do Rio Preto;1.12
+Diamantina;Senador Modestino Gonçalves;1.12
+Capelinha;Angelândia;18.61
+Capelinha;Aricanduva;18.61
+Capelinha;Berilo;18.61
+Capelinha;Capelinha;18.61
+Capelinha;Carbonita;18.61
+Capelinha;Chapada do Norte;18.61
+Capelinha;Francisco Badaró;18.61
+Capelinha;Itamarandiba;18.61
+Capelinha;Jenipapo de Minas;18.61
+Capelinha;José Gonçalves de Minas;18.61
+Capelinha;Leme do Prado;18.61
+Capelinha;Minas Novas;18.61
+Capelinha;Turmalina;18.61
+Capelinha;Veredinha;18.61
 Araçuaí;Araçuaí;2.16
 Araçuaí;Caraí;2.16
 Araçuaí;Coronel Murta;2.16
@@ -137,11 +137,11 @@ Araçuaí;Novo Cruzeiro;2.16
 Araçuaí;Padre Paraíso;2.16
 Araçuaí;Ponto dos Volantes;2.16
 Araçuaí;Virgem da Lapa;2.16
-Pedra Azul;Cachoeira de Pajeú;2.42
-Pedra Azul;Comercinho;2.42
-Pedra Azul;Itaobim;2.42
-Pedra Azul;Medina;2.42
-Pedra Azul;Pedra Azul;2.42
+Pedra Azul;Cachoeira de Pajeú;9.14
+Pedra Azul;Comercinho;9.14
+Pedra Azul;Itaobim;9.14
+Pedra Azul;Medina;9.14
+Pedra Azul;Pedra Azul;9.14
 Almenara;Almenara;5.5
 Almenara;Bandeira;5.5
 Almenara;Divisópolis;5.5
@@ -158,19 +158,19 @@ Almenara;Rubim;5.5
 Almenara;Salto da Divisa;5.5
 Almenara;Santa Maria do Salto;5.5
 Almenara;Santo Antônio do Jacinto;5.5
-Teófilo Otoni;Ataléia;5.12
-Teófilo Otoni;Catuji;5.12
-Teófilo Otoni;Franciscópolis;5.12
-Teófilo Otoni;Frei Gaspar;5.12
-Teófilo Otoni;Itaipé;5.12
-Teófilo Otoni;Ladainha;5.12
-Teófilo Otoni;Malacacheta;5.12
-Teófilo Otoni;Novo Oriente de Minas;5.12
-Teófilo Otoni;Ouro Verde de Minas;5.12
-Teófilo Otoni;Pavão;5.12
-Teófilo Otoni;Poté;5.12
-Teófilo Otoni;Setubinha;5.12
-Teófilo Otoni;Teófilo Otoni;5.12
+Teófilo Otoni;Ataléia;59.37
+Teófilo Otoni;Catuji;59.37
+Teófilo Otoni;Franciscópolis;59.37
+Teófilo Otoni;Frei Gaspar;59.37
+Teófilo Otoni;Itaipé;59.37
+Teófilo Otoni;Ladainha;59.37
+Teófilo Otoni;Malacacheta;59.37
+Teófilo Otoni;Novo Oriente de Minas;59.37
+Teófilo Otoni;Ouro Verde de Minas;59.37
+Teófilo Otoni;Pavão;59.37
+Teófilo Otoni;Poté;59.37
+Teófilo Otoni;Setubinha;59.37
+Teófilo Otoni;Teófilo Otoni;59.37
 Nanuque;Águas Formosas;6.81
 Nanuque;Bertópolis;6.81
 Nanuque;Carlos Chagas;6.81
@@ -247,13 +247,13 @@ Araxá;Pratinha;15.91
 Araxá;Sacramento;15.91
 Araxá;Santa Juliana;15.91
 Araxá;Tapira;15.91
-Três Marias;Abaeté;10.6
-Três Marias;Biquinhas;10.6
-Três Marias;Cedro do Abaeté;10.6
-Três Marias;Morada Nova de Minas;10.6
-Três Marias;Paineiras;10.6
-Três Marias;Pompéu;10.6
-Três Marias;Três Marias;10.6
+Três Marias;Abaeté;35.4
+Três Marias;Biquinhas;35.4
+Três Marias;Cedro do Abaeté;35.4
+Três Marias;Morada Nova de Minas;35.4
+Três Marias;Paineiras;35.4
+Três Marias;Pompéu;35.4
+Três Marias;Três Marias;35.4
 Curvelo;Augusto de Lima;10.31
 Curvelo;Buenópolis;10.31
 Curvelo;Corinto;10.31
@@ -277,26 +277,26 @@ Bom Despacho;Martinho Campos;3.25
 Bom Despacho;Moema;3.25
 Bom Despacho;Quartel Geral;3.25
 Bom Despacho;Serra da Saudade;3.25
-Sete Lagoas;Araçaí;38.45
-Sete Lagoas;Baldim;38.45
-Sete Lagoas;Cachoeira da Prata;38.45
-Sete Lagoas;Caetanópolis;38.45
-Sete Lagoas;Capim Branco;38.45
-Sete Lagoas;Cordisburgo;38.45
-Sete Lagoas;Fortuna de Minas;38.45
-Sete Lagoas;Funilândia;38.45
-Sete Lagoas;Inhaúma;38.45
-Sete Lagoas;Jaboticatubas;38.45
-Sete Lagoas;Jequitibá;38.45
-Sete Lagoas;Maravilhas;38.45
-Sete Lagoas;Matozinhos;38.45
-Sete Lagoas;Papagaios;38.45
-Sete Lagoas;Paraopeba;38.45
-Sete Lagoas;Pequi;38.45
-Sete Lagoas;Prudente de Morais;38.45
-Sete Lagoas;Santana de Pirapama;38.45
-Sete Lagoas;Santana do Riacho;38.45
-Sete Lagoas;Sete Lagoas;38.45
+Sete Lagoas;Araçaí;100
+Sete Lagoas;Baldim;100
+Sete Lagoas;Cachoeira da Prata;100
+Sete Lagoas;Caetanópolis;100
+Sete Lagoas;Capim Branco;100
+Sete Lagoas;Cordisburgo;100
+Sete Lagoas;Fortuna de Minas;100
+Sete Lagoas;Funilândia;100
+Sete Lagoas;Inhaúma;100
+Sete Lagoas;Jaboticatubas;100
+Sete Lagoas;Jequitibá;100
+Sete Lagoas;Maravilhas;100
+Sete Lagoas;Matozinhos;100
+Sete Lagoas;Papagaios;100
+Sete Lagoas;Paraopeba;100
+Sete Lagoas;Pequi;100
+Sete Lagoas;Prudente de Morais;100
+Sete Lagoas;Santana de Pirapama;100
+Sete Lagoas;Santana do Riacho;100
+Sete Lagoas;Sete Lagoas;100
 Conceição do Mato Dentro;Alvorada de Minas;0
 Conceição do Mato Dentro;Conceição do Mato Dentro;0
 Conceição do Mato Dentro;Congonhas do Norte;0
@@ -310,11 +310,11 @@ Conceição do Mato Dentro;Santo Antônio do Rio Abaixo;0
 Conceição do Mato Dentro;São Sebastião do Rio Preto;0
 Conceição do Mato Dentro;Serra Azul de Minas;0
 Conceição do Mato Dentro;Serro;0
-Pará de Minas;Florestal;6.62
-Pará de Minas;Onça de Pitangui;6.62
-Pará de Minas;Pará de Minas;6.62
-Pará de Minas;Pitangui;6.62
-Pará de Minas;São José da Varginha;6.62
+Pará de Minas;Florestal;34.57
+Pará de Minas;Onça de Pitangui;34.57
+Pará de Minas;Pará de Minas;34.57
+Pará de Minas;Pitangui;34.57
+Pará de Minas;São José da Varginha;34.57
 Belo Horizonte;Belo Horizonte;100
 Belo Horizonte;Betim;100
 Belo Horizonte;Brumadinho;100
@@ -370,33 +370,33 @@ Ouro Preto;Diogo de Vasconcelos;1.2
 Ouro Preto;Itabirito;1.2
 Ouro Preto;Mariana;1.2
 Ouro Preto;Ouro Preto;1.2
-Conselheiro Lafaiete;Casa Grande;6.39
-Conselheiro Lafaiete;Catas Altas da Noruega;6.39
-Conselheiro Lafaiete;Congonhas;6.39
-Conselheiro Lafaiete;Conselheiro Lafaiete;6.39
-Conselheiro Lafaiete;Cristiano Otôni;6.39
-Conselheiro Lafaiete;Desterro de Entre-Rios;6.39
-Conselheiro Lafaiete;Entre-Rios de Minas;6.39
-Conselheiro Lafaiete;Itaverava;6.39
-Conselheiro Lafaiete;Ouro Branco;6.39
-Conselheiro Lafaiete;Queluzito;6.39
-Conselheiro Lafaiete;Santana dos Montes;6.39
-Conselheiro Lafaiete;São Brás do Suaçuí;6.39
-Guanhães;Braúnas;0.08
-Guanhães;Carmésia;0.08
-Guanhães;Coluna;0.08
-Guanhães;Divinolândia de Minas;0.08
-Guanhães;Dores de Guanhães;0.08
-Guanhães;Gonzaga;0.08
-Guanhães;Guanhães;0.08
-Guanhães;Materlândia;0.08
-Guanhães;Paulistas;0.08
-Guanhães;Sabinópolis;0.08
-Guanhães;Santa Efigênia de Minas;0.08
-Guanhães;São João Evangelista;0.08
-Guanhães;Sardoá;0.08
-Guanhães;Senhora do Porto;0.08
-Guanhães;Virginópolis;0.08
+Conselheiro Lafaiete;Casa Grande;33.56
+Conselheiro Lafaiete;Catas Altas da Noruega;33.56
+Conselheiro Lafaiete;Congonhas;33.56
+Conselheiro Lafaiete;Conselheiro Lafaiete;33.56
+Conselheiro Lafaiete;Cristiano Otôni;33.56
+Conselheiro Lafaiete;Desterro de Entre-Rios;33.56
+Conselheiro Lafaiete;Entre-Rios de Minas;33.56
+Conselheiro Lafaiete;Itaverava;33.56
+Conselheiro Lafaiete;Ouro Branco;33.56
+Conselheiro Lafaiete;Queluzito;33.56
+Conselheiro Lafaiete;Santana dos Montes;33.56
+Conselheiro Lafaiete;São Brás do Suaçuí;33.56
+Guanhães;Braúnas;1.03
+Guanhães;Carmésia;1.03
+Guanhães;Coluna;1.03
+Guanhães;Divinolândia de Minas;1.03
+Guanhães;Dores de Guanhães;1.03
+Guanhães;Gonzaga;1.03
+Guanhães;Guanhães;1.03
+Guanhães;Materlândia;1.03
+Guanhães;Paulistas;1.03
+Guanhães;Sabinópolis;1.03
+Guanhães;Santa Efigênia de Minas;1.03
+Guanhães;São João Evangelista;1.03
+Guanhães;Sardoá;1.03
+Guanhães;Senhora do Porto;1.03
+Guanhães;Virginópolis;1.03
 Peçanha;Água Boa;0
 Peçanha;Cantagalo;0
 Peçanha;Frei Lagonegro;0
@@ -431,58 +431,58 @@ Governador Valadares;São José do Divino;10.9
 Governador Valadares;Sobrália;10.9
 Governador Valadares;Tumiritinga;10.9
 Governador Valadares;Virgolândia;10.9
-Mantena;Central de Minas;8.58
-Mantena;Itabirinha de Mantena;8.58
-Mantena;Mantena;8.58
-Mantena;Mendes Pimentel;8.58
-Mantena;Nova Belém;8.58
-Mantena;São Félix de Minas;8.58
-Mantena;São João do Manteninha;8.58
-Ipatinga;Açucena;23.65
-Ipatinga;Antônio Dias;23.65
-Ipatinga;Belo Oriente;23.65
-Ipatinga;Coronel Fabriciano;23.65
-Ipatinga;Ipatinga;23.65
-Ipatinga;Jaguaraçu;23.65
-Ipatinga;Joanésia;23.65
-Ipatinga;Marliéria;23.65
-Ipatinga;Mesquita;23.65
-Ipatinga;Naque;23.65
-Ipatinga;Periquito;23.65
-Ipatinga;Santana do Paraíso;23.65
-Ipatinga;Timóteo;23.65
-Caratinga;Bom Jesus do Galho;8.59
-Caratinga;Bugre;8.59
-Caratinga;Caratinga;8.59
-Caratinga;Córrego Novo;8.59
-Caratinga;Dom Cavati;8.59
-Caratinga;Entre-Folhas;8.59
-Caratinga;Iapu;8.59
-Caratinga;Imbé de Minas;8.59
-Caratinga;Inhapim;8.59
-Caratinga;Ipaba;8.59
-Caratinga;Piedade de Caratinga;8.59
-Caratinga;Pingo-d'Água;8.59
-Caratinga;Santa Rita de Minas;8.59
-Caratinga;São Domingos das Dores;8.59
-Caratinga;São João do Oriente;8.59
-Caratinga;São Sebastião do Anta;8.59
-Caratinga;Tarumirim;8.59
-Caratinga;Ubaporanga;8.59
-Caratinga;Vargem Alegre;8.59
-Aimorés;Aimorés;5.97
-Aimorés;Alvarenga;5.97
-Aimorés;Conceição de Ipanema;5.97
-Aimorés;Conselheiro Pena;5.97
-Aimorés;Cuparaque;5.97
-Aimorés;Goiabeira;5.97
-Aimorés;Ipanema;5.97
-Aimorés;Itueta;5.97
-Aimorés;Mutum;5.97
-Aimorés;Pocrane;5.97
-Aimorés;Resplendor;5.97
-Aimorés;Santa Rita do Itueto;5.97
-Aimorés;Taparuba;5.97
+Mantena;Central de Minas;21.45
+Mantena;Itabirinha de Mantena;21.45
+Mantena;Mantena;21.45
+Mantena;Mendes Pimentel;21.45
+Mantena;Nova Belém;21.45
+Mantena;São Félix de Minas;21.45
+Mantena;São João do Manteninha;21.45
+Ipatinga;Açucena;100
+Ipatinga;Antônio Dias;100
+Ipatinga;Belo Oriente;100
+Ipatinga;Coronel Fabriciano;100
+Ipatinga;Ipatinga;100
+Ipatinga;Jaguaraçu;100
+Ipatinga;Joanésia;100
+Ipatinga;Marliéria;100
+Ipatinga;Mesquita;100
+Ipatinga;Naque;100
+Ipatinga;Periquito;100
+Ipatinga;Santana do Paraíso;100
+Ipatinga;Timóteo;100
+Caratinga;Bom Jesus do Galho;44.26
+Caratinga;Bugre;44.26
+Caratinga;Caratinga;44.26
+Caratinga;Córrego Novo;44.26
+Caratinga;Dom Cavati;44.26
+Caratinga;Entre-Folhas;44.26
+Caratinga;Iapu;44.26
+Caratinga;Imbé de Minas;44.26
+Caratinga;Inhapim;44.26
+Caratinga;Ipaba;44.26
+Caratinga;Piedade de Caratinga;44.26
+Caratinga;Pingo-d'Água;44.26
+Caratinga;Santa Rita de Minas;44.26
+Caratinga;São Domingos das Dores;44.26
+Caratinga;São João do Oriente;44.26
+Caratinga;São Sebastião do Anta;44.26
+Caratinga;Tarumirim;44.26
+Caratinga;Ubaporanga;44.26
+Caratinga;Vargem Alegre;44.26
+Aimorés;Aimorés;20.22
+Aimorés;Alvarenga;20.22
+Aimorés;Conceição de Ipanema;20.22
+Aimorés;Conselheiro Pena;20.22
+Aimorés;Cuparaque;20.22
+Aimorés;Goiabeira;20.22
+Aimorés;Ipanema;20.22
+Aimorés;Itueta;20.22
+Aimorés;Mutum;20.22
+Aimorés;Pocrane;20.22
+Aimorés;Resplendor;20.22
+Aimorés;Santa Rita do Itueto;20.22
+Aimorés;Taparuba;20.22
 Piumhi;Bambuí;4.67
 Piumhi;Córrego Danta;4.67
 Piumhi;Doresópolis;4.67
@@ -492,41 +492,41 @@ Piumhi;Piumhi;4.67
 Piumhi;São Roque de Minas;4.67
 Piumhi;Tapiraí;4.67
 Piumhi;Vargem Bonita;4.67
-Divinópolis;Carmo do Cajuru;9.43
-Divinópolis;Cláudio;9.43
-Divinópolis;Conceição do Pará;9.43
-Divinópolis;Divinópolis;9.43
-Divinópolis;Igaratinga;9.43
-Divinópolis;Itaúna;9.43
-Divinópolis;Nova Serrana;9.43
-Divinópolis;Perdigão;9.43
-Divinópolis;Santo Antônio do Monte;9.43
-Divinópolis;São Gonçalo do Pará;9.43
-Divinópolis;São Sebastião do Oeste;9.43
-Formiga;Arcos;3.26
-Formiga;Camacho;3.26
-Formiga;Córrego Fundo;3.26
-Formiga;Formiga;3.26
-Formiga;Itapecerica;3.26
-Formiga;Pains;3.26
-Formiga;Pedra do Indaiá;3.26
-Formiga;Pimenta;3.26
-Campo Belo;Aguanil;2.49
-Campo Belo;Campo Belo;2.49
-Campo Belo;Cana Verde;2.49
-Campo Belo;Candeias;2.49
-Campo Belo;Cristais;2.49
-Campo Belo;Perdões;2.49
-Campo Belo;Santana do Jacaré;2.49
-Oliveira;Bom Sucesso;1.28
-Oliveira;Carmo da Mata;1.28
-Oliveira;Carmópolis de Minas;1.28
-Oliveira;Ibituruna;1.28
-Oliveira;Oliveira;1.28
-Oliveira;Passa-Tempo;1.28
-Oliveira;Piracema;1.28
-Oliveira;Santo Antônio do Amparo;1.28
-Oliveira;São Francisco de Paula;1.28
+Divinópolis;Carmo do Cajuru;14.61
+Divinópolis;Cláudio;14.61
+Divinópolis;Conceição do Pará;14.61
+Divinópolis;Divinópolis;14.61
+Divinópolis;Igaratinga;14.61
+Divinópolis;Itaúna;14.61
+Divinópolis;Nova Serrana;14.61
+Divinópolis;Perdigão;14.61
+Divinópolis;Santo Antônio do Monte;14.61
+Divinópolis;São Gonçalo do Pará;14.61
+Divinópolis;São Sebastião do Oeste;14.61
+Formiga;Arcos;31.37
+Formiga;Camacho;31.37
+Formiga;Córrego Fundo;31.37
+Formiga;Formiga;31.37
+Formiga;Itapecerica;31.37
+Formiga;Pains;31.37
+Formiga;Pedra do Indaiá;31.37
+Formiga;Pimenta;31.37
+Campo Belo;Aguanil;24.79
+Campo Belo;Campo Belo;24.79
+Campo Belo;Cana Verde;24.79
+Campo Belo;Candeias;24.79
+Campo Belo;Cristais;24.79
+Campo Belo;Perdões;24.79
+Campo Belo;Santana do Jacaré;24.79
+Oliveira;Bom Sucesso;8.09
+Oliveira;Carmo da Mata;8.09
+Oliveira;Carmópolis de Minas;8.09
+Oliveira;Ibituruna;8.09
+Oliveira;Oliveira;8.09
+Oliveira;Passa-Tempo;8.09
+Oliveira;Piracema;8.09
+Oliveira;Santo Antônio do Amparo;8.09
+Oliveira;São Francisco de Paula;8.09
 Passos;Alpinópolis;81.89
 Passos;Bom Jesus da Penha;81.89
 Passos;Capetinga;81.89
@@ -555,18 +555,18 @@ São Sebastião do Paraíso;Nova Resende;12.57
 São Sebastião do Paraíso;São Pedro da União;12.57
 São Sebastião do Paraíso;São Sebastião do Paraíso;12.57
 São Sebastião do Paraíso;São Tomás de Aquino;12.57
-Alfenas;Alfenas;18.22
-Alfenas;Alterosa;18.22
-Alfenas;Areado;18.22
-Alfenas;Carmo do Rio Claro;18.22
-Alfenas;Carvalhópolis;18.22
-Alfenas;Conceição da Aparecida;18.22
-Alfenas;Divisa Nova;18.22
-Alfenas;Fama;18.22
-Alfenas;Machado;18.22
-Alfenas;Paraguaçu;18.22
-Alfenas;Poço Fundo;18.22
-Alfenas;Serrania;18.22
+Alfenas;Alfenas;70.47
+Alfenas;Alterosa;70.47
+Alfenas;Areado;70.47
+Alfenas;Carmo do Rio Claro;70.47
+Alfenas;Carvalhópolis;70.47
+Alfenas;Conceição da Aparecida;70.47
+Alfenas;Divisa Nova;70.47
+Alfenas;Fama;70.47
+Alfenas;Machado;70.47
+Alfenas;Paraguaçu;70.47
+Alfenas;Poço Fundo;70.47
+Alfenas;Serrania;70.47
 Varginha;Boa Esperança;13.76
 Varginha;Campanha;13.76
 Varginha;Campo do Meio;13.76
@@ -616,50 +616,50 @@ Pouso Alegre;Senador Amaral;5.6
 Pouso Alegre;Senador José Bento;5.6
 Pouso Alegre;Tocos do Moji;5.6
 Pouso Alegre;Toledo;5.6
-Santa Rita do Sapucaí;Cachoeira de Minas;12.59
-Santa Rita do Sapucaí;Careaçu;12.59
-Santa Rita do Sapucaí;Conceição das Pedras;12.59
-Santa Rita do Sapucaí;Conceição dos Ouros;12.59
-Santa Rita do Sapucaí;Cordislândia;12.59
-Santa Rita do Sapucaí;Heliodora;12.59
-Santa Rita do Sapucaí;Natércia;12.59
-Santa Rita do Sapucaí;Pedralva;12.59
-Santa Rita do Sapucaí;Santa Rita do Sapucaí;12.59
-Santa Rita do Sapucaí;São Gonçalo do Sapucaí;12.59
-Santa Rita do Sapucaí;São João da Mata;12.59
-Santa Rita do Sapucaí;São José do Alegre;12.59
-Santa Rita do Sapucaí;São Sebastião da Bela Vista;12.59
-Santa Rita do Sapucaí;Silvianópolis;12.59
-Santa Rita do Sapucaí;Turvolândia;12.59
-São Lourenço;Alagoa;4.04
-São Lourenço;Baependi;4.04
-São Lourenço;Cambuquira;4.04
-São Lourenço;Carmo de Minas;4.04
-São Lourenço;Caxambu;4.04
-São Lourenço;Conceição do Rio Verde;4.04
-São Lourenço;Itamonte;4.04
-São Lourenço;Itanhandu;4.04
-São Lourenço;Jesuânia;4.04
-São Lourenço;Lambari;4.04
-São Lourenço;Olímpio Noronha;4.04
-São Lourenço;Passa-Quatro;4.04
-São Lourenço;Pouso Alto;4.04
-São Lourenço;São Lourenço;4.04
-São Lourenço;São Sebastião do Rio Verde;4.04
-São Lourenço;Soledade de Minas;4.04
-Andrelândia;Aiuruoca;0.38
-Andrelândia;Andrelândia;0.38
-Andrelândia;Arantina;0.38
-Andrelândia;Bocaina de Minas;0.38
-Andrelândia;Bom Jardim de Minas;0.38
-Andrelândia;Carvalhos;0.38
-Andrelândia;Cruzília;0.38
-Andrelândia;Liberdade;0.38
-Andrelândia;Minduri;0.38
-Andrelândia;Passa-Vinte;0.38
-Andrelândia;São Vicente de Minas;0.38
-Andrelândia;Seritinga;0.38
-Andrelândia;Serranos;0.38
+Santa Rita do Sapucaí;Cachoeira de Minas;27.43
+Santa Rita do Sapucaí;Careaçu;27.43
+Santa Rita do Sapucaí;Conceição das Pedras;27.43
+Santa Rita do Sapucaí;Conceição dos Ouros;27.43
+Santa Rita do Sapucaí;Cordislândia;27.43
+Santa Rita do Sapucaí;Heliodora;27.43
+Santa Rita do Sapucaí;Natércia;27.43
+Santa Rita do Sapucaí;Pedralva;27.43
+Santa Rita do Sapucaí;Santa Rita do Sapucaí;27.43
+Santa Rita do Sapucaí;São Gonçalo do Sapucaí;27.43
+Santa Rita do Sapucaí;São João da Mata;27.43
+Santa Rita do Sapucaí;São José do Alegre;27.43
+Santa Rita do Sapucaí;São Sebastião da Bela Vista;27.43
+Santa Rita do Sapucaí;Silvianópolis;27.43
+Santa Rita do Sapucaí;Turvolândia;27.43
+São Lourenço;Alagoa;32.88
+São Lourenço;Baependi;32.88
+São Lourenço;Cambuquira;32.88
+São Lourenço;Carmo de Minas;32.88
+São Lourenço;Caxambu;32.88
+São Lourenço;Conceição do Rio Verde;32.88
+São Lourenço;Itamonte;32.88
+São Lourenço;Itanhandu;32.88
+São Lourenço;Jesuânia;32.88
+São Lourenço;Lambari;32.88
+São Lourenço;Olímpio Noronha;32.88
+São Lourenço;Passa-Quatro;32.88
+São Lourenço;Pouso Alto;32.88
+São Lourenço;São Lourenço;32.88
+São Lourenço;São Sebastião do Rio Verde;32.88
+São Lourenço;Soledade de Minas;32.88
+Andrelândia;Aiuruoca;3.37
+Andrelândia;Andrelândia;3.37
+Andrelândia;Arantina;3.37
+Andrelândia;Bocaina de Minas;3.37
+Andrelândia;Bom Jardim de Minas;3.37
+Andrelândia;Carvalhos;3.37
+Andrelândia;Cruzília;3.37
+Andrelândia;Liberdade;3.37
+Andrelândia;Minduri;3.37
+Andrelândia;Passa-Vinte;3.37
+Andrelândia;São Vicente de Minas;3.37
+Andrelândia;Seritinga;3.37
+Andrelândia;Serranos;3.37
 Itajubá;Brazópolis;5
 Itajubá;Consolação;5
 Itajubá;Cristina;5
@@ -673,30 +673,30 @@ Itajubá;Piranguçu;5
 Itajubá;Piranguinho;5
 Itajubá;Wenceslau Braz;5
 Itajubá;Virgínia;5
-Lavras;Carrancas;8.6
-Lavras;Ijaci;8.6
-Lavras;Ingaí;8.6
-Lavras;Itumirim;8.6
-Lavras;Itutinga;8.6
-Lavras;Lavras;8.6
-Lavras;Luminárias;8.6
-Lavras;Nepomuceno;8.6
-Lavras;Ribeirão Vermelho;8.6
-São João Del-Rei;Conceição da Barra de Minas;6.91
-São João Del-Rei;Coronel Xavier Chaves;6.91
-São João Del-Rei;Dores de Campos;6.91
-São João Del-Rei;Lagoa Dourada;6.91
-São João Del-Rei;Madre de Deus de Minas;6.91
-São João Del-Rei;Nazareno;6.91
-São João Del-Rei;Piedade do Rio Grande;6.91
-São João Del-Rei;Prados;6.91
-São João Del-Rei;Resende Costa;6.91
-São João Del-Rei;Ritápolis;6.91
-São João Del-Rei;Santa Cruz de Minas;6.91
-São João Del-Rei;Santana do Garambéu;6.91
-São João Del-Rei;São João del Rei;6.91
-São João Del-Rei;São Tiago;6.91
-São João Del-Rei;Tiradentes;6.91
+Lavras;Carrancas;37.08
+Lavras;Ijaci;37.08
+Lavras;Ingaí;37.08
+Lavras;Itumirim;37.08
+Lavras;Itutinga;37.08
+Lavras;Lavras;37.08
+Lavras;Luminárias;37.08
+Lavras;Nepomuceno;37.08
+Lavras;Ribeirão Vermelho;37.08
+São João Del-Rei;Conceição da Barra de Minas;33.13
+São João Del-Rei;Coronel Xavier Chaves;33.13
+São João Del-Rei;Dores de Campos;33.13
+São João Del-Rei;Lagoa Dourada;33.13
+São João Del-Rei;Madre de Deus de Minas;33.13
+São João Del-Rei;Nazareno;33.13
+São João Del-Rei;Piedade do Rio Grande;33.13
+São João Del-Rei;Prados;33.13
+São João Del-Rei;Resende Costa;33.13
+São João Del-Rei;Ritápolis;33.13
+São João Del-Rei;Santa Cruz de Minas;33.13
+São João Del-Rei;Santana do Garambéu;33.13
+São João Del-Rei;São João del Rei;33.13
+São João Del-Rei;São Tiago;33.13
+São João Del-Rei;Tiradentes;33.13
 Barbacena;Alfredo Vasconcelos;14.07
 Barbacena;Antônio Carlos;14.07
 Barbacena;Barbacena;14.07
@@ -727,84 +727,84 @@ Ponte Nova;Sem-Peixe;100
 Ponte Nova;Sericita;100
 Ponte Nova;Urucânia;100
 Ponte Nova;Vermelho Novo;100
-Manhuaçu;Abre-Campo;23.4
-Manhuaçu;Alto Caparaó;23.4
-Manhuaçu;Alto Jequitibá;23.4
-Manhuaçu;Caparaó;23.4
-Manhuaçu;Caputira;23.4
-Manhuaçu;Chalé;23.4
-Manhuaçu;Durandé;23.4
-Manhuaçu;Lajinha;23.4
-Manhuaçu;Luisburgo;23.4
-Manhuaçu;Manhuaçu;23.4
-Manhuaçu;Manhumirim;23.4
-Manhuaçu;Martins Soares;23.4
-Manhuaçu;Matipó;23.4
-Manhuaçu;Pedra Bonita;23.4
-Manhuaçu;Reduto;23.4
-Manhuaçu;Santa Bárbara do Leste;23.4
-Manhuaçu;Santa Margarida;23.4
-Manhuaçu;Santana do Manhuaçu;23.4
-Manhuaçu;São João do Manhuaçu;23.4
-Manhuaçu;São José do Mantimento;23.4
-Manhuaçu;Simonésia;23.4
-Viçosa;Alto Rio Doce;6.44
-Viçosa;Amparo da Serra;6.44
-Viçosa;Araponga;6.44
-Viçosa;Brás Pires;6.44
-Viçosa;Cajuri;6.44
-Viçosa;Canaã;6.44
-Viçosa;Cipotânea;6.44
-Viçosa;Coimbra;6.44
-Viçosa;Ervália;6.44
-Viçosa;Lamim;6.44
-Viçosa;Paula Cândido;6.44
-Viçosa;Pedra do Anta;6.44
-Viçosa;Piranga;6.44
-Viçosa;Porto Firme;6.44
-Viçosa;Presidente Bernardes;6.44
-Viçosa;Rio Espera;6.44
-Viçosa;São Miguel do Anta;6.44
-Viçosa;Senhora de Oliveira;6.44
-Viçosa;Teixeiras;6.44
-Viçosa;Viçosa;6.44
-Muriaé;Antônio Prado de Minas;15.35
-Muriaé;Barão do Monte Alto;15.35
-Muriaé;Caiana;15.35
-Muriaé;Carangola;15.35
-Muriaé;Divino;15.35
-Muriaé;Espera Feliz;15.35
-Muriaé;Eugenópolis;15.35
-Muriaé;Faria Lemos;15.35
-Muriaé;Fervedouro;15.35
-Muriaé;Miradouro;15.35
-Muriaé;Miraí;15.35
-Muriaé;Muriaé;15.35
-Muriaé;Orizânia;15.35
-Muriaé;Patrocínio do Muriaé;15.35
-Muriaé;Pedra Dourada;15.35
-Muriaé;Rosário da Limeira;15.35
-Muriaé;São Francisco do Glória;15.35
-Muriaé;São Sebastião da Vargem Alegre;15.35
-Muriaé;Tombos;15.35
-Muriaé;Vieiras;15.35
-Ubá;Astolfo Dutra;9.37
-Ubá;Divinésia;9.37
-Ubá;Dores do Turvo;9.37
-Ubá;Guarani;9.37
-Ubá;Guidoval;9.37
-Ubá;Guiricema;9.37
-Ubá;Mercês;9.37
-Ubá;Piraúba;9.37
-Ubá;Rio Pomba;9.37
-Ubá;Rodeiro;9.37
-Ubá;São Geraldo;9.37
-Ubá;Senador Firmino;9.37
-Ubá;Silveirânia;9.37
-Ubá;Tabuleiro;9.37
-Ubá;Tocantins;9.37
-Ubá;Ubá;9.37
-Ubá;Visconde do Rio Branco;9.37
+Manhuaçu;Abre-Campo;73.79
+Manhuaçu;Alto Caparaó;73.79
+Manhuaçu;Alto Jequitibá;73.79
+Manhuaçu;Caparaó;73.79
+Manhuaçu;Caputira;73.79
+Manhuaçu;Chalé;73.79
+Manhuaçu;Durandé;73.79
+Manhuaçu;Lajinha;73.79
+Manhuaçu;Luisburgo;73.79
+Manhuaçu;Manhuaçu;73.79
+Manhuaçu;Manhumirim;73.79
+Manhuaçu;Martins Soares;73.79
+Manhuaçu;Matipó;73.79
+Manhuaçu;Pedra Bonita;73.79
+Manhuaçu;Reduto;73.79
+Manhuaçu;Santa Bárbara do Leste;73.79
+Manhuaçu;Santa Margarida;73.79
+Manhuaçu;Santana do Manhuaçu;73.79
+Manhuaçu;São João do Manhuaçu;73.79
+Manhuaçu;São José do Mantimento;73.79
+Manhuaçu;Simonésia;73.79
+Viçosa;Alto Rio Doce;28.13
+Viçosa;Amparo da Serra;28.13
+Viçosa;Araponga;28.13
+Viçosa;Brás Pires;28.13
+Viçosa;Cajuri;28.13
+Viçosa;Canaã;28.13
+Viçosa;Cipotânea;28.13
+Viçosa;Coimbra;28.13
+Viçosa;Ervália;28.13
+Viçosa;Lamim;28.13
+Viçosa;Paula Cândido;28.13
+Viçosa;Pedra do Anta;28.13
+Viçosa;Piranga;28.13
+Viçosa;Porto Firme;28.13
+Viçosa;Presidente Bernardes;28.13
+Viçosa;Rio Espera;28.13
+Viçosa;São Miguel do Anta;28.13
+Viçosa;Senhora de Oliveira;28.13
+Viçosa;Teixeiras;28.13
+Viçosa;Viçosa;28.13
+Muriaé;Antônio Prado de Minas;100
+Muriaé;Barão do Monte Alto;100
+Muriaé;Caiana;100
+Muriaé;Carangola;100
+Muriaé;Divino;100
+Muriaé;Espera Feliz;100
+Muriaé;Eugenópolis;100
+Muriaé;Faria Lemos;100
+Muriaé;Fervedouro;100
+Muriaé;Miradouro;100
+Muriaé;Miraí;100
+Muriaé;Muriaé;100
+Muriaé;Orizânia;100
+Muriaé;Patrocínio do Muriaé;100
+Muriaé;Pedra Dourada;100
+Muriaé;Rosário da Limeira;100
+Muriaé;São Francisco do Glória;100
+Muriaé;São Sebastião da Vargem Alegre;100
+Muriaé;Tombos;100
+Muriaé;Vieiras;100
+Ubá;Astolfo Dutra;50.75
+Ubá;Divinésia;50.75
+Ubá;Dores do Turvo;50.75
+Ubá;Guarani;50.75
+Ubá;Guidoval;50.75
+Ubá;Guiricema;50.75
+Ubá;Mercês;50.75
+Ubá;Piraúba;50.75
+Ubá;Rio Pomba;50.75
+Ubá;Rodeiro;50.75
+Ubá;São Geraldo;50.75
+Ubá;Senador Firmino;50.75
+Ubá;Silveirânia;50.75
+Ubá;Tabuleiro;50.75
+Ubá;Tocantins;50.75
+Ubá;Ubá;50.75
+Ubá;Visconde do Rio Branco;50.75
 Juiz de Fora;Aracitaba;24.51
 Juiz de Fora;Belmiro Braga;24.51
 Juiz de Fora;Bias Fortes;24.51
